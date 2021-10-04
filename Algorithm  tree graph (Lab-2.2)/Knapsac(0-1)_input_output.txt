@@ -1,0 +1,7 @@
+Enter number of items:3
+Enter value and weight of items:
+100 20
+50 10
+150 30
+Enter size of knapsack:50
+250
